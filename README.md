@@ -87,3 +87,8 @@ To stay organised, use task management tools like Trello, Asana, or Todoist. The
 
 # 2023-12-04
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By prioritizing tasks based on their importance and urgency, you can make better use of your time and ensure that you focus on the right things. Planning ahead can help to avoid last-minute emergencies and allow you time to research and prepare for potential issues. Finally, staying organized can mean the difference between a well-maintained codebase and a messy, hard-to-navigate one. Use version control, organize your files and code, document your processes, follow coding conventions, keep your editor setup clean, use useful plugins and tools, etc. All of these practices will contribute to a better working environment and make you a more effective programmer.
+
+# 2023-12-05
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code too early in the development process can lead to unnecessary complexity and harder-to-maintain code. It's often better to write clear, straightforward code first and optimize only when necessary, based on profiling and performance testing.
