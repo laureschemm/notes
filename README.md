@@ -154,3 +154,6 @@ Second, always plan your day or week ahead of time. Write down your goals and de
  -- 211 words
    
 Third, stay organize and maintain a clean and tidy workspace. A cluttered desk can lead to confusion and distraction, making it harder to focus and work efficiently. Keep your code organized and well-documented, using version control systems like Git to track your changes. Organizing and documenting your codes will make it easier to come back to a project later and easier for others to understand and contribute to your project.
+
+# 2023-12-21
+- "Keep it simple, stupid!"
