@@ -157,3 +157,6 @@ Third, stay organize and maintain a clean and tidy workspace. A cluttered desk c
 
 # 2023-12-21
 - "Keep it simple, stupid!"
+
+# 2023-12-22
+- Today's programming wisdom is to embrace the principle of "write readable code". Always remember that code is read far more often than it is written. Strive for clarity and simplicity in your syntax, use descriptive variable names, and include comments to explain complex logic or intentions. Remember that writing maintainable and understandable code is a crucial aspect of being a good programmer, as it not only makes your work easier to debug and update but also facilitates collaboration with other developers. Ultimately, code is a form of communication, so write it as if you're explaining your thought process to someone else.
