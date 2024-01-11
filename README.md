@@ -244,3 +244,13 @@ To stay current, make time to attend conferences, read industry blogs, and parti
 
 Next, use a scheduling tool or planner to plan out your day. Allocate time for each task, including breaks and time to answer emails or attend meetings. Having a plan will keep you on track and prevent you from getting sidetracked. You can also use this time planning to set reminders for yourself to ensure you stay focused. 
  - 来自n.p.s.
+
+# 2024-01-11
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines ensure code maintainability, scalability, and reusability, which are crucial in a constantly evolving software landscape. Remember that clear, modular, and decoupled code is the cornerstone of efficient development and long-term project health." 
+
+In detail:
+1. Single Responsibility Principle (SRP): A class should have only one reason to change, meaning it should do one thing and do it well.
+2. Open-Closed Principle (OCP): Software entities like classes, modules, etc., should be open for extension but closed for modification.
+3. Liskov Substitution Principle (LSP): Derived classes must be substitutable for their base classes without altering the correctness of the program.
+4. Interface Segregation Principle (ISP): Clients should not be forced to depend on methods they do not use; instead, interfaces should be broken down into smaller, more specific ones.
+5. Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; rather, details should depend on abstractions.
