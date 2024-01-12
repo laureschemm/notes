@@ -254,3 +254,8 @@ In detail:
 3. Liskov Substitution Principle (LSP): Derived classes must be substitutable for their base classes without altering the correctness of the program.
 4. Interface Segregation Principle (ISP): Clients should not be forced to depend on methods they do not use; instead, interfaces should be broken down into smaller, more specific ones.
 5. Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; rather, details should depend on abstractions.
+
+# 2024-01-12
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By staying current, you can better understand the industry trends and develop the skills needed to succeed in your career.
+
+Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, break it down into smaller, manageable tasks and use logical thinking to identify the best solution. Practice debugging and testing your code, which will help you identify and fix errors more efficiently. Finally, never be afraid to ask for help or advice from others in the programming community. They are always willing to share their knowledge and experience, helping you grow as a programmer.
