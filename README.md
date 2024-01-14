@@ -262,3 +262,8 @@ Another important aspect of programming wise is problem-solving skills. When fac
 
 # 2024-01-13
 - Today's programming wisdom is to prioritize tasks, plan your time wisely, and stay organized. This will help you to be more efficient and productive in your work. First, make a list of all the tasks you need to complete, then prioritize them based on their importance and urgency. Next, allocate time for each task, taking into account the complexity and your own availability. Finally, use tools and software to keep your project organized and up-to-date. Remember to take breaks and maintain a healthy work-life balance. By following these tips, you will be able to achieve your goals and become a better programmer.
+
+# 2024-01-14
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. Always strive to write clean, readable, and maintainable code. Remember that code is read far more often than it's written. Optimize for clarity and understandability first; complexity can be a liability in the long run. Also, embrace the power of reusable modules and libraries to save time, reduce errors, and enhance collaboration." 
+
+"In addition, 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing correct and working code initially, then optimize only when necessary based on data and profiling. Lastly, remember that debugging is twice as hard as writing the code in the first place. So, if you write your code as clearly as possible to begin with, the easier it will be to debug later."
